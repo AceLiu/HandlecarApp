@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/AceLiu/HandlecarApp/raw/master/client_pro/handleclient.ipa</string>
+					<string>https://raw.githubusercontent.com/AceLiu/HandlecarApp/master/client_pro/handleclient.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
